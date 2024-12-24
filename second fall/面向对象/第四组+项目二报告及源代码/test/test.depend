@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1727611820 source:c:\users\86136\desktop\cstring\test\keepacount.cpp
+	"KeepAcount.h"
+	<iomanip>
+	<fstream>
+
+1728994907 c:\users\86136\desktop\cstring\test\keepacount.h
+	"LinkList.h"
+	<iomanip>
+
+1727611313 c:\users\86136\desktop\cstring\test\linklist.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+
+1728990363 source:c:\users\86136\desktop\cstring\test\keepacounttest.cpp
+	"LinkList.h"
+	"KeepAcount.h"
+	<conio.h>
+	<ctime>
+	<cstdlib>
+
+1729055768 source:c:\users\86136\desktop\cstring\test\user.cpp
+	<iostream>
+	<iomanip>
+	<conio.h>
+	<string>
+	<fstream>
+	<cstring>
+	"User.h"
+
+1728994089 c:\users\86136\desktop\cstring\test\user.h
+	<string>
+	<iostream>
+
+1728990423 source:c:\users\86136\desktop\cstring\test\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<fstream>
+	"User.h"
+	<cctype>
+

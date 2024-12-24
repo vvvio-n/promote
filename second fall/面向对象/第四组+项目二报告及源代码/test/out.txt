@@ -1,0 +1,5 @@
+2_9___food:8__entertain:8__life:8__others:8__pay:32__income:8__balance:-24
+7_3___food:8__entertain:8__life:8__others:8__pay:32__income:8__balance:-24
+10_15___food:8__entertain:8__life:8__others:8__pay:32__income:8__balance:-24
+10_16___food:8__entertain:8__life:8__others:8__pay:32__income:8__balance:-24
+12_6___food:8__entertain:8__life:8__others:8__pay:32__income:8__balance:-24

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\apply\\shu\\\u4F5C\u4E1A\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C2\\Rail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96A404C4-5276-4635-9F89-5D611009CCD1}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\apply\\shu\\\u4F5C\u4E1A\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C2\\Rail\\ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96A404C4-5276-4635-9F89-5D611009CCD1}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A404C4-5276-4635-9F89-5D611009CCD1}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\apply\\shu\\\u4F5C\u4E1A\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C2\\Rail\\ConsoleApplication1\\SeqStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96A404C4-5276-4635-9F89-5D611009CCD1}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\SeqStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A404C4-5276-4635-9F89-5D611009CCD1}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\apply\\shu\\\u4F5C\u4E1A\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C2\\Rail\\ConsoleApplication1\\Assistance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96A404C4-5276-4635-9F89-5D611009CCD1}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Assistance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A404C4-5276-4635-9F89-5D611009CCD1}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\apply\\shu\\\u4F5C\u4E1A\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C2\\Rail\\ConsoleApplication1\\SeqQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96A404C4-5276-4635-9F89-5D611009CCD1}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\SeqQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\apply\\shu\\\u4F5C\u4E1A\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C2\\Rail\\ConsoleApplication1\\main.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\main.cpp",
+              "ToolTip": "C:\\apply\\shu\\\u4F5C\u4E1A\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C2\\Rail\\ConsoleApplication1\\main.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\main.cpp",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAowPYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T16:32:17.971Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeqStack.h",
+              "DocumentMoniker": "C:\\apply\\shu\\\u4F5C\u4E1A\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C2\\Rail\\ConsoleApplication1\\SeqStack.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\SeqStack.h",
+              "ToolTip": "C:\\apply\\shu\\\u4F5C\u4E1A\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C2\\Rail\\ConsoleApplication1\\SeqStack.h",
+              "RelativeToolTip": "ConsoleApplication1\\SeqStack.h",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwHQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T16:31:55.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeqQueue.h",
+              "DocumentMoniker": "C:\\apply\\shu\\\u4F5C\u4E1A\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C2\\Rail\\ConsoleApplication1\\SeqQueue.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\SeqQueue.h",
+              "ToolTip": "C:\\apply\\shu\\\u4F5C\u4E1A\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C2\\Rail\\ConsoleApplication1\\SeqQueue.h",
+              "RelativeToolTip": "ConsoleApplication1\\SeqQueue.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T16:31:12.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assistance.h",
+              "DocumentMoniker": "C:\\apply\\shu\\\u4F5C\u4E1A\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C2\\Rail\\ConsoleApplication1\\Assistance.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Assistance.h",
+              "ToolTip": "C:\\apply\\shu\\\u4F5C\u4E1A\\\u6570\u636E\u7ED3\u6784\\\u5B9E\u9A8C2\\Rail\\ConsoleApplication1\\Assistance.h",
+              "RelativeToolTip": "ConsoleApplication1\\Assistance.h",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T16:30:51.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

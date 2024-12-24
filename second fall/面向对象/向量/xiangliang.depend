@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1727974869 source:c:\users\26818\desktop\xiangliang\main.cpp
+	<iostream>
+	"xiangliang.h"
+	<limits>
+
+1727973950 c:\users\26818\desktop\xiangliang\xiangliang.h
+	<iostream>
+	<vector>
+	<stdexcept>
+	<limits>
+
+1727961429 source:c:\users\26818\desktop\xiangliang\xiangliang.cpp
+	"xiangliang.h"
+
